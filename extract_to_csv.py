@@ -1,4 +1,6 @@
-# *************** REQUIRES DEVELOPMENT AND EDITING **********
+# *************** Extract Desired Parameter from HeliSHOLDS and Display **********
+# **** LEUT V. Watson ***
+# **** 07 Mar 17 ********
 
 import zipfile
 import pylab as pl
